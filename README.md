@@ -1,2 +1,41 @@
-# all-restaurants-in-greater-chicago-area-metro-il-in-us-sample-701076
-Free BeamStation sample for All Restaurants in Greater Chicago Area (Metro), IL-IN, US (21,436 records in the full dataset)
+# All Restaurants in Greater Chicago Area (Metro), IL-IN, US
+
+> Free BeamStation sample export with 1,000 rows and masked direct-contact fields.
+
+## Snapshot
+
+| Field | Value |
+|---|---|
+| Dataset ID | `701076` |
+| Location | Chicago-Naperville-Elgin, IL-IN |
+| Category | Restaurants |
+| Full dataset size | 21,436 records |
+| Free sample size | 1,000 records (4.67%) |
+| Last export | 2026-04-09T16:15:30.547859+00:00 |
+| Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-chicago-area-metro-il-in-us-sample-701076/releases/download/sample-latest/beamstation_701076_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv) |
+
+## What is in this sample
+
+This sample is generated directly from the BeamStation export pipeline and combines the `complete` and `insights` export profiles into one evaluation CSV.
+
+Included signals:
+- business profile and location fields
+- ratings, review counts, and review activity
+- Beam Score and competitive metrics
+- sentiment and percentile features
+- social profile signals
+- masked email and masked phone fields
+
+## Get the full dataset
+
+The full commercial dataset is available in the BeamStation catalog:
+
+[https://beamstation.com/datasets](https://beamstation.com/datasets)
+
+Search for dataset ID `701076` on BeamStation if you want the exact commercial listing.
+
+## Notes
+
+- This repository only contains a free sample.
+- Contact data that drives the commercial value is partially masked.
+- The source sample file is mirrored from BeamStation B2 storage and refreshed from CentralDB exports.
