@@ -9,9 +9,9 @@
 | Dataset ID | `701076` |
 | Location | Chicago-Naperville-Elgin, IL-IN |
 | Category | Restaurants |
-| Full dataset size | 21,436 records |
-| Free sample size | 1,000 records (4.67%) |
-| Last export | 2026-04-09T16:15:30.547859+00:00 |
+| Full dataset size | 21,058 records |
+| Free sample size | 1,000 records (4.75%) |
+| Last export | 2026-04-16T19:14:34.743076+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-chicago-area-metro-il-in-us-sample-701076/releases/download/sample-latest/beamstation_701076_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
