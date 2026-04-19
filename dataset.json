@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Metro-wide restaurant data for the Greater Chicago area extending into northwestern Indiana. Covers the Midwest's largest and most varied dining market, filtered by the Restaurants category group. Includes verified business profiles, ratings, review trends, sentiment scores, and competitive positioning. Refreshed weekly.",
   "config_name": "All Restaurants in Greater Chicago Area (Metro), IL-IN, US",
-  "export_job_id": "1ffc7da0-fc64-4fc3-a9d7-c627fbf72290",
+  "export_job_id": "99648e7b-6cdd-41cd-b7b1-08fc0a155364",
   "github_org": "Beamstation-Datasets",
   "id_short": 701076,
   "location_name": "Chicago-Naperville-Elgin, IL-IN",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-greater-chicago-area-metro-il-in-us-sample-701076",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/701076/beamstation_701076_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
-  "sample_pct": 4.67,
+  "sample_pct": 4.75,
   "sample_records": 1000,
   "sample_sha256": "b675c21f6a110371d016542f55643458e7076f6f23ddc486bee3b23d174df27c",
   "sample_size_bytes": 3444868,
-  "total_records": 21436,
-  "updated_at": "2026-04-09T16:15:30.547859+00:00"
+  "total_records": 21058,
+  "updated_at": "2026-04-16T19:14:34.743076+00:00"
 }
