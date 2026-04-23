@@ -1,12 +1,12 @@
 {
-  "export_job_id": "99648e7b-6cdd-41cd-b7b1-08fc0a155364",
+  "export_job_id": "3a2cc6a4-b36d-4929-ae9b-a2bc3e33fdda",
   "id_short": 701076,
-  "published_at": "2026-04-19T19:46:27Z",
+  "published_at": "2026-04-23T20:00:11Z",
   "repo_name": "all-restaurants-in-greater-chicago-area-metro-il-in-us-sample-701076",
   "sample_asset_name": "beamstation_701076_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/701076/beamstation_701076_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "b675c21f6a110371d016542f55643458e7076f6f23ddc486bee3b23d174df27c",
-  "sample_size_bytes": 3444868,
-  "total_records": 21058
+  "sample_sha256": "b9eb98341a08bc6aeb5a34edcab9b8f6113876a0f5ef419cc0d3af944dc9e527",
+  "sample_size_bytes": 3458589,
+  "total_records": 19778
 }
